@@ -4,7 +4,8 @@ VALUES
 	(1,'ZM8G7BEUQZ97IH46V','Peugeot','Rifter','2019','Red'),
 	(2,'RKXVNNIHLVVZOUB4M','Ford','Fusion	','2018','White'),
 	(3,'HKNDGS7CU31E9Z7JW','Toyota','RAV4','2018','Silver'),
-	(5,'DAM41UDN3CHU2WVF6','Volvo','V60 Cross Country	','2019','Gray');
+	(4,'DAM41UDN3CHU2WVF6','Volvo','V60','2019','Gray')
+	(5,'DAM41UDN3CHU2WVF6','Volvo','V60 Cross Country','2019','Gray');
 
 INSERT INTO `Customers` (`id`, `Customer ID`, `Name`, `Phone`, `Email`, `Address`, `City`, `State`, `Country`, `Postal`)
 VALUES
@@ -24,7 +25,7 @@ VALUES
 	(1,'2','Anna Sthesia','Barcelona'),
 	(2,'3','Paul Molive','Berlin'),
 	(3,'4','Gail Forcewind','Paris'),
-	(4,'5','Paige Turner','Miami'),
+	(4,'5','Paige Turner','Mimia'),
 	(5,'6','Bob Frapples','Mexico City'),
 	(6,'7','Walter Melon','Amsterdam'),
 	(7,'8','Shonda Leer','São Paulo');
